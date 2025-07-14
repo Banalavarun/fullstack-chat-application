@@ -43,12 +43,17 @@ Make sure to create a .env file inside the /backend directory with the following
 
 .env
 PORT=3000
+
 CORS_ORIGIN=http://localhost:5173
+
 MONGO_URL=mongodb://localhost:27017/chatapp
+
 JWT_SECRET=your_jwt_secret_key
 
 📂 Project Status
+
 ✅ Real-time backend & messaging complete
+
 ⏳ UI improvement and advanced features in progress
 
 
